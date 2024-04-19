@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1713448432 source:d:\coding\dichuyentrongconsole\dichuyentrongconsole.c
+	<stdio.h>
+	"console.h"
+
+1713447874 d:\coding\dichuyentrongconsole\console.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+
